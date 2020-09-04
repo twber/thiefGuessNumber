@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		9BD3B1F824F547B600871D7A /* GuessNumber.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuessNumber.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9BD3B1F824F547B600871D7A /* thiefGuessNumber.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = thiefGuessNumber.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BD3B1FB24F547B600871D7A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9BD3B1FD24F547B600871D7A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		9BD3B1FF24F547B600871D7A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		9BD3B1F924F547B600871D7A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9BD3B1F824F547B600871D7A /* GuessNumber.app */,
+				9BD3B1F824F547B600871D7A /* thiefGuessNumber.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -73,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9BD3B1F724F547B600871D7A /* GuessNumber */ = {
+		9BD3B1F724F547B600871D7A /* thiefGuessNumber */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9BD3B20E24F547B800871D7A /* Build configuration list for PBXNativeTarget "GuessNumber" */;
+			buildConfigurationList = 9BD3B20E24F547B800871D7A /* Build configuration list for PBXNativeTarget "thiefGuessNumber" */;
 			buildPhases = (
 				9BD3B1F424F547B600871D7A /* Sources */,
 				9BD3B1F524F547B600871D7A /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = GuessNumber;
+			name = thiefGuessNumber;
 			productName = GuessNumber;
-			productReference = 9BD3B1F824F547B600871D7A /* GuessNumber.app */;
+			productReference = 9BD3B1F824F547B600871D7A /* thiefGuessNumber.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -104,7 +104,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9BD3B1F324F547B600871D7A /* Build configuration list for PBXProject "GuessNumber" */;
+			buildConfigurationList = 9BD3B1F324F547B600871D7A /* Build configuration list for PBXProject "thiefGuessNumber" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -117,7 +117,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9BD3B1F724F547B600871D7A /* GuessNumber */,
+				9BD3B1F724F547B600871D7A /* thiefGuessNumber */,
 			);
 		};
 /* End PBXProject section */
@@ -326,7 +326,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9BD3B1F324F547B600871D7A /* Build configuration list for PBXProject "GuessNumber" */ = {
+		9BD3B1F324F547B600871D7A /* Build configuration list for PBXProject "thiefGuessNumber" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9BD3B20C24F547B800871D7A /* Debug */,
@@ -335,7 +335,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9BD3B20E24F547B800871D7A /* Build configuration list for PBXNativeTarget "GuessNumber" */ = {
+		9BD3B20E24F547B800871D7A /* Build configuration list for PBXNativeTarget "thiefGuessNumber" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9BD3B20F24F547B800871D7A /* Debug */,
